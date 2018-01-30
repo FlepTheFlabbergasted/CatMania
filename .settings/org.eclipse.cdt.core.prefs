@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.190474058/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.190474058/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.190474058/PATH/value=${MINGW_HOME}\\bin;${MSYS_HOME}\\bin;${MSYS_HOME}\\usr\\bin;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;D\:\\AMD\\ATI.ACE\\Core-Static;C\:\\Program Files (x86)\\AMD\\ATI.ACE\\Core-Static;C\:\\Program Files (x86)\\Skype\\Phone\\;D\:\\avr-gcc\\bin;C\:\\MinGW\\bin;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;C\:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Users\\Filip Strandberg\\AppData\\Local\\Microsoft\\WindowsApps;C\:\\MinGW\\bin
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.190474058/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.190474058/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.1234482804/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.1234482804/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.1234482804/PATH/value=${MINGW_HOME}\\bin;${MSYS_HOME}\\bin;${MSYS_HOME}\\usr\\bin;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;D\:\\AMD\\ATI.ACE\\Core-Static;C\:\\Program Files (x86)\\AMD\\ATI.ACE\\Core-Static;C\:\\Program Files (x86)\\Skype\\Phone\\;D\:\\avr-gcc\\bin;C\:\\MinGW\\bin;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;C\:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Users\\Filip Strandberg\\AppData\\Local\\Microsoft\\WindowsApps;C\:\\MinGW\\bin
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.1234482804/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.1234482804/appendContributed=true
